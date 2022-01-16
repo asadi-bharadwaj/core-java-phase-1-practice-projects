@@ -213,9 +213,9 @@ public class StudentRecordFileHandling {
 	    		    		
 	    		Scanner strInput = new Scanner(System.in);
 	    		
-	    		System.out.println("\t\t Update Employee Record\n\n");   
+	    		System.out.println("\t\t Update student Record\n\n");   
 			/**/		
-				System.out.println("Enter the Employee ID: ");
+				System.out.println("Enter the student ID: ");
 		    		ID = strInput.nextLine();	    		
 		    		System.out.println(" ------------------------------------------------------------- ");
 		    		System.out.println("|	ID		Name 				Age			Address 		  |");
